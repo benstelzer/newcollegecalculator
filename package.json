@@ -1,0 +1,17 @@
+{
+  "name": "newcollegecalculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node_modules/.bin/typings install && node_modules/.bin/bower install"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "typescript": "^1.8.10",
+    "typings": "^1.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
